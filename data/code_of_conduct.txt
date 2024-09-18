@@ -1,0 +1,13 @@
+
+    SQL LTD Code of Conduct
+
+    At SQL LTD, our success is driven by a commitment to integrity, excellence, and mutual respect. Our Code of Conduct outlines the standards we expect from all employees:
+
+    - Professionalism: Maintain a high level of professionalism in all interactions, both internally and externally.
+    - Respect: Treat your colleagues, clients, and stakeholders with respect and consideration.
+    - Confidentiality: Safeguard all company and client information. Sharing sensitive data is strictly prohibited unless explicitly authorized.
+    - Compliance: Adhere to all applicable laws and SQL LTD policies.
+    - Conflict of Interest: Avoid any situations where your personal interests may conflict with the interests of SQL LTD.
+
+    Breaches of the Code of Conduct may result in disciplinary action. Please review the full policy in the employee handbook or consult your manager.
+    

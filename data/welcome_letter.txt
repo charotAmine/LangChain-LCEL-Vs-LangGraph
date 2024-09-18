@@ -1,0 +1,15 @@
+
+    Welcome to SQL LTD!
+
+    Dear [Employee Name],
+
+    Welcome to SQL LTD! We are thrilled to have you as part of our team and are excited to begin this journey with you. Our goal is to provide an inclusive, innovative, and collaborative workplace where your skills and talents will thrive.
+
+    As a company, we believe in continuous growth, learning, and the pursuit of excellence. During your first few weeks, you will be introduced to our company policies, meet your team, and get familiar with our systems. Don’t hesitate to reach out to your manager or HR if you have any questions.
+
+    We look forward to seeing all the great things you will achieve here at SQL LTD.
+
+    Warm regards,
+    [Your Name]
+    HR Manager, SQL LTD
+    

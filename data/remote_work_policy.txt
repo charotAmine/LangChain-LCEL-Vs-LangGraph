@@ -1,0 +1,12 @@
+
+    SQL LTD Remote Work Policy
+
+    At SQL LTD, we believe in flexibility and trust our employees to manage their time effectively. The following guidelines apply to remote work:
+
+    - Remote Work Eligibility: Employees may work remotely up to 3 days per week, subject to approval by their manager.
+    - Communication: Remote workers must be available during core business hours (9:00 AM to 5:00 PM) via email, Slack, or phone.
+    - Workspace: Remote employees should maintain a professional and secure workspace to protect company data.
+    - Security: Employees must use company-provided VPNs and adhere to security protocols while working remotely.
+
+    All remote work arrangements should be discussed with your supervisor in advance.
+    

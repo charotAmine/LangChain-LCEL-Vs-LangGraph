@@ -1,0 +1,13 @@
+
+    SQL LTD Company Policies Overview
+
+    Welcome to SQL LTD! As a valued employee, it’s important that you understand our company’s policies to ensure a smooth and professional working environment. Below is a summary of some key policies:
+
+    - Work Hours: SQL LTD operates on a flexible schedule, but core working hours are from 9:00 AM to 5:00 PM, Monday to Friday.
+    - Leave Policy: Employees are entitled to 20 days of paid vacation per year, in addition to public holidays.
+    - Dress Code: We promote a smart-casual dress code, but employees are expected to dress professionally during client meetings.
+    - Non-Disclosure Agreement (NDA): All employees are required to sign an NDA to protect company and client data.
+    - Internet Usage: Personal use of company internet should be kept to a minimum during work hours.
+
+    For the full policy document, please consult your employee handbook or reach out to HR.
+    
